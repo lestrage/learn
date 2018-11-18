@@ -1,0 +1,8 @@
+2018-11-17 12:33:53 [main] INFO  JDBCDriverConnection:19 - Connection has been established
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:59 - =========================
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:60 - 1. Create the dish
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:61 - 2. Read the dish
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:62 - 3. Update the dish
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:63 - 4. Delete the dish
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:64 - 5. Check the dish
+2018-11-17 12:33:53 [main] INFO  RestaurantManager:65 - 6. Show the dish
